@@ -1,16 +1,17 @@
-### Hi there 👋
+## About me
 
-<!--
-**mauricemowry/mauricemowry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Maurice and I'm a 15-year-old programmer from Canada who is interested in programming and reverse engineering.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Languages
+    > C++   [2-years experience]
+   
+###### Software
+    > Visual Studio   [2-years experience]
+    > Ghidra          [1-years experience]
+    > x64dbg          [1-years experience]
+
+## Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauricemowry&show_icons=true&theme=dracula&custom_title=Maurice's%20GitHub%20Statistics)
