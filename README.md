@@ -5,7 +5,8 @@ My name is Maurice and I'm a 15-year-old programmer from Canada who is intereste
 ## Experience
 
 ###### Languages
-    > C++   [2-years experience]
+    > C++      [2-years experience]
+    > Python   [6-months experience]
    
 ###### Software
     > Visual Studio   [2-years experience]
