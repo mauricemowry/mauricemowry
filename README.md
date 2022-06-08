@@ -1,7 +1,6 @@
 ## About me
 
-Hey there!
-My name is Maurice and I'm a 15-year-old programmer from Canada who is interested in programming and reverse engineering.
+[redacted]
 
 ## Experience
 
