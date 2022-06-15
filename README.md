@@ -6,7 +6,7 @@
 
 ###### Languages
     > C++      [2-years experience]
-    > Python   [6-months experience]
+    > Python   [8-months experience]
    
 ###### Software
     > Visual Studio   [2-years experience]
