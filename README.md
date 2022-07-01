@@ -5,13 +5,13 @@
 ## Experience
 
 ###### Languages
-    > C++      [2-years experience]
-    > Python   [8-months experience]
+    > C++
+    > Python
    
 ###### Software
-    > Visual Studio   [2-years experience]
-    > Ghidra          [1-years experience]
-    > x64dbg          [1-years experience]
+    > Visual Studio
+    > IDA Pro
+    > x64dbg
 
 ## Statistics
 
