@@ -5,13 +5,13 @@
 ## Experience
 
 ###### Languages
-    > C++           [>3 years]
-    > Python        [>2 years]
+    > C++            [>3 years]
+    > Python         [>2 years]
    
 ###### Software
-    > Visual Studio [>3 years]
-    > IDA Pro       [~1 years]
-    > x64dbg        [~2 years]
+    > Visual Studio  [>3 years]
+    > IDA Pro        [~1 years]
+    > x64dbg         [~2 years]
 
 ## Statistics
 
